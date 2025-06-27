@@ -4,7 +4,7 @@ from fastapi.responses import StreamingResponse
 from PIL import Image, ImageDraw
 import io
 
-from model import predict_image, decode_base64_image
+from src.model import predict_image, decode_base64_image
 
 app = FastAPI()
 
