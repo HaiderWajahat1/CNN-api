@@ -22,8 +22,6 @@ Thumbs.db
 # Jupyter
 .ipynb_checkpoints/
 
-# Docker artifacts
-.dockerignore
 
 # Model files (usually too large for GitHub)
 *.h5
