@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment variables and config
+.env
+*.env
+
+# Logs
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker artifacts
+.dockerignore
+
+# Model files (usually too large for GitHub)
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Test and datasets (optional — remove if needed in repo)
+tests/
+data/
