@@ -1,0 +1,25 @@
+# Git
+.git
+.gitignore
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
+
+# Logs and temp files
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+
+# Test and data folders (optional, comment if needed)
+tests/
+data/
